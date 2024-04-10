@@ -1,16 +1,19 @@
-# week6_handout
+# Exercise 6 - Flutter (State Management)
 
-A new Flutter project.
+**Name:** Kyle Nathaniel P. Vinuya <br />
+**Student Number:** 2022-69573 <br />
+**Section:** CMSC 23 - UV5L <br />
 
-## Getting Started
+## Application Description
+Shopping Cart
 
-This project is a starting point for a Flutter application.
+## Things you did in the code
+I made a clone of lab handout and expanded upon it by adding more functionality, particularly the checkout page.
+  
+## Challenges when developing the application
+1. Intimidation of the topic's difficulty
+2. Finding a way to pop all widgets until it reached the initial widget / route.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Notes:
+- Tested on the following virtual machine using Mac M1 (ARM):
+    - Pixel 4 API VanillaIceCream 
