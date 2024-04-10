@@ -16,6 +16,7 @@ class _MyCatalogState extends State<MyCatalog> {
     Item("Soap", 12, 3),
     Item("Toothpaste", 40, 3),
   ];
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
