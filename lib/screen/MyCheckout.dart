@@ -46,7 +46,9 @@ class MyCheckout extends StatelessWidget {
 
   Widget computeCost() {
     return Consumer<ShoppingCart>(builder: (context, cart, child) {
-      return Text("Total Cost to Pay: ${cart.cartTotal}");
+      return cart.cartTotal == 0
+          ? Text("")
+          : Text("Total Cost to Pay: ${cart.cartTotal}");
     });
   }
 
